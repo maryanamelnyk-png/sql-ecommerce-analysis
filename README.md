@@ -1,4 +1,4 @@
-# 📊 SQL Final Project — E-commerce Analysis
+# SQL Final Project — E-commerce Analysis
 
 ## Project Overview
 This project focuses on analyzing e-commerce data using SQL to extract key business insights.  
